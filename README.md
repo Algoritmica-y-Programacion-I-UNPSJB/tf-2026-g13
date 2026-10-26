@@ -4,8 +4,8 @@
 **Interfaz / Modalidad:** PC — Solitario  
 
 ## Integrantes y aportes
-- Ana Luz Mastrangelo Benente
-- Emilio Peñafiel Sánchez
+- Ana Luz Mastrangelo Benente (@AnaLuzMB)
+- Emilio Peñafiel Sánchez (@EmilioPenafiel)
 
 ## Reglas y alcance
 La propuesta aprobada consiste en desarrollar Tetris para PC, en modalidad solitario.
